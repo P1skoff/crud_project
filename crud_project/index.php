@@ -1,7 +1,7 @@
 <?php
 //create a 2D array
 $users = [
-    ['name' => 'Max', 'nachname' => 'Mustermann', 'telefonnummer' => '0123456789', 'abteilung' => 'IT', 'zugangsdaten' => 'ja', 'firmengeraet' => 'ja'],
+    ['name' => 'Toni', 'nachname' => 'Mustermann', 'telefonnummer' => '0123456789', 'abteilung' => 'IT', 'zugangsdaten' => 'ja', 'firmengeraet' => 'ja'],
     ['name' => 'Max', 'nachname' => 'Mustermann', 'telefonnummer' => '0123456789', 'abteilung' => 'IT', 'zugangsdaten' => 'ja', 'firmengeraet' => 'ja'],
     ['name' => 'Max', 'nachname' => 'Mustermann', 'telefonnummer' => '0123456789', 'abteilung' => 'IT', 'zugangsdaten' => 'ja', 'firmengeraet' => 'ja'],
     ['name' => 'Max', 'nachname' => 'Mustermann', 'telefonnummer' => '0123456789', 'abteilung' => 'IT', 'zugangsdaten' => 'ja', 'firmengeraet' => 'ja'],
